@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "swellSizeIcon_25x25.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "swellSizeIcon_50x50.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "swellSizeIcon_100x100.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
